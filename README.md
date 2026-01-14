@@ -44,7 +44,7 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 
 ## 📫 Contato e presença
 
-- ⭐ LinkedIn: https://www.linkedin.com/in/rayssaareis  
+- ⭐ LinkedIn: [linkedin.com/in/rayssa_reis](https://www.linkedin.com/in/rayssa-reis-7a61052a3/) 
 - ✉️ Email: rayssa.reis222@gmail
 
 ---
