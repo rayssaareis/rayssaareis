@@ -5,13 +5,14 @@
 [![Tempo produtivo](https://raw.githubusercontent.com/rayssaareis/rayssaareis/main/profile-summary-card-output/date_night/4-productive-time.svg)](https://github.com/rayssaareis)
 
 
-<p align="center"> ## 🛠 Sobre mim
+
+## 🛠 Sobre mim
 
 Engenheira de Software na reta final para a formação, focada em **back-end com Java**, com interesse real em arquitetura de sistemas, qualidade de código e padrões corporativos.  
 Atualmente desenvolvendo projetos autorais para consolidar boas práticas de engenharia, legibilidade e escalabilidade.
 
 
-<p align="center"> ## 💼 Habilidades técnicas
+## 💼 Habilidades técnicas
 
 **Linguagens:** Java, SQL, Python  
 **Back-end:** APIs REST, lógica de negócio, validação e tratamento de exceções  
@@ -19,23 +20,21 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 **Ferramentas e práticas:** Git, GitHub, TDD básico, clean code, SOLID (em prática)
 
 
-<p align="center"> ## 📂 Projetos em destaque
+## 📂 Projetos em destaque
 
 > Os repós abaixo estão pinados no meu perfil — cada um com README e contexto técnicos próprios! <3
 
 
-<p align="center"> ### Java
+### Java
 - **PasswordGenerator** – Gerador de senhas seguro baseado em Diceware (Java)  
 - **DiceRoller, BankAccount e TaskManager** – Ferramentas de console com foco em lógica e clean code
 
-
-<p align="center"> ### Outros
+### Outros
 - **technova-bot-engine** – Motor de chatbot com memória FIFO (Python + Ollama)
 
 > *Consulte cada repositório para instruções de execução, estrutura e decisões arquiteturais.*
 
-
-<p align="center"> ## 💬 O que você vai encontrar no meu GitHub
+## 💬 O que você vai encontrar no meu GitHub
 
 ✔ Projetos com foco em lógica de negócios e estrutura  
 ✔ Uso consciente de padrões e princípios de design  
@@ -43,7 +42,7 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 ✔ Código limpo, testável e evolutivo
 
 
-<p align="center"> ## 📫 Contato e presença
+## 📫 Contato e presença
 
 - ⭐ LinkedIn: https://www.linkedin.com/in/rayssaareis  
 - ✉️ Email: rayssa.reis222@gmail
