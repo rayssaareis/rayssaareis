@@ -8,7 +8,7 @@
 
 
   
-# 🛠 Sobre mim
+## 🛠 Sobre mim
 
 Engenheira de Software na reta final para a formação, focada em **back-end com Java**, com interesse real em arquitetura de sistemas, qualidade de código e padrões corporativos.  
 Atualmente desenvolvendo projetos autorais para consolidar boas práticas de engenharia, legibilidade e escalabilidade.
@@ -39,7 +39,7 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 > *Consulte cada repositório para instruções de execução, estrutura e decisões arquiteturais.*
 
 
-## 📫 Contato e presença
+# 📫 Contato e presença
 
 ⭐ LinkedIn: [linkedin.com/in/rayssa_reis](https://www.linkedin.com/in/rayssa-reis-7a61052a3/) 
 
