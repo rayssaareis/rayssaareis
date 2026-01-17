@@ -25,7 +25,7 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 ## 📂 Projetos em destaque
 
 > Os repós abaixo estão pinados no meu perfil — cada um com README e contexto técnicos próprios! <3
-
+</div>
 
 ### Java
 **PasswordGenerator** – Gerador de senhas seguro baseado em Diceware (Java)  
@@ -35,6 +35,8 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 **technova-bot-engine** – Motor de chatbot com memória FIFO (Python + Ollama)
 
 > *Consulte cada repositório para instruções de execução, estrutura e decisões arquiteturais.*
+
+<div align="center">
 
 ## 💬 O que você vai encontrar no meu GitHub
 
