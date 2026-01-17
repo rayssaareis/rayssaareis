@@ -6,6 +6,7 @@
 
 
 <div align="center">
+  
 ## 🛠 Sobre mim
 
 Engenheira de Software na reta final para a formação, focada em **back-end com Java**, com interesse real em arquitetura de sistemas, qualidade de código e padrões corporativos.  
