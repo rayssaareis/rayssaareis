@@ -1,11 +1,12 @@
 <h1 align="center">Oiee 🌿 Eu sou Rayssa Reis :) ✨️</h1>
 
+<div align="center">
+
 [![GitHub stats](https://raw.githubusercontent.com/rayssaareis/rayssaareis/main/profile-summary-card-output/date_night/0-profile-details.svg)](https://github.com/rayssaareis)
 [![Repos por linguagem](https://raw.githubusercontent.com/rayssaareis/rayssaareis/main/profile-summary-card-output/date_night/1-repos-per-language.svg)](https://github.com/rayssaareis)
 [![Tempo produtivo](https://raw.githubusercontent.com/rayssaareis/rayssaareis/main/profile-summary-card-output/date_night/4-productive-time.svg)](https://github.com/rayssaareis)
 
 
-<div align="center">
   
 ## 🛠 Sobre mim
 
