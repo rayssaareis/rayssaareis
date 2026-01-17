@@ -26,11 +26,11 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 
 
 ### Java
-- **PasswordGenerator** – Gerador de senhas seguro baseado em Diceware (Java)  
-- **DiceRoller, BankAccount e TaskManager** – Ferramentas de console com foco em lógica e clean code
+**PasswordGenerator** – Gerador de senhas seguro baseado em Diceware (Java)  
+**DiceRoller, BankAccount e TaskManager** – Ferramentas de console com foco em lógica e clean code
 
 ### Outros
-- **technova-bot-engine** – Motor de chatbot com memória FIFO (Python + Ollama)
+**technova-bot-engine** – Motor de chatbot com memória FIFO (Python + Ollama)
 
 > *Consulte cada repositório para instruções de execução, estrutura e decisões arquiteturais.*
 
@@ -44,8 +44,8 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 
 ## 📫 Contato e presença
 
-- ⭐ LinkedIn: [linkedin.com/in/rayssa_reis](https://www.linkedin.com/in/rayssa-reis-7a61052a3/) 
-- ✉️ Email: rayssa.reis222@gmail
+⭐ LinkedIn: [linkedin.com/in/rayssa_reis](https://www.linkedin.com/in/rayssa-reis-7a61052a3/) 
+✉️ Email: rayssa.reis222@gmail
 </div>
 ---
 
