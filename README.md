@@ -28,20 +28,13 @@ Atualmente desenvolvendo projetos autorais para consolidar boas práticas de eng
 
 ### Java
 
-</div>
-
 **PasswordGenerator** – Gerador de senhas seguro baseado em Diceware (Java)  
 **DiceRoller, BankAccount e TaskManager** – Ferramentas de console com foco em lógica e clean code
 
-<div align="center">
-
 ### Outros
-
-</div>
 
 **technova-bot-engine** – Motor de chatbot com memória FIFO (Python + Ollama)
 
-<div align="center">
 
 > *Consulte cada repositório para instruções de execução, estrutura e decisões arquiteturais.*
 
