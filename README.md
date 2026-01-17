@@ -14,6 +14,6 @@
 
 ✉️ Email: rayssa.reis222@gmail
 </div>
----
 
+---
 <p align="center">📌 Atualizando frequentemente com projetos que contribuem para minha evolução técnica!</p>
