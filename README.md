@@ -1,4 +1,4 @@
-<h1 align="center">Oiee 🌿 Eu sou Rayssa Reis :) ✨️</h1>
+<h1 align="center">🌿✨️</h1>
 
 <div align="center">
 
