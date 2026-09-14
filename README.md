@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=238&color=A64CBF&text=Rayssa%20Reis%20Dev&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&desc=software%20engineer&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2500&pause=900&color=C59AD1&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;BACKEND+DEVELOPER;JAVA+%7C+SPRING+BOOT;APIs+%7C+DATABASES;SOFTWARE+ENGINEERING;EXPLORING+THE+CODE+UNIVERSE..."/>
 </p>
@@ -7,6 +5,9 @@
 <p align="center">
   <img src="./GitHub.png" />
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=238&color=A64CBF&text=Rayssa%20Reis%20Dev&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&desc=software%20engineer&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Tools+and+Technologies%3A;Core+Skills%3A;"/>
