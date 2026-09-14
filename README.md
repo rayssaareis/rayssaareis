@@ -20,7 +20,7 @@
 
 
 <h3 align="center">
- 🔗 <b>Connect with me</b>
+ 🔗 <b>Connect with me:</b>
   <br><br>
   <a href="https://www.linkedin.com/in/rayssareisdev/">
     <img src="https://images.vexels.com/media/users/3/131245/isolated/preview/9351735cd3a456e88ad876588ab9e503-logo-do-linkedin.png" width="45"/>
