@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="./GitHub.png" />
+  <a href="https://www.linkedin.com/in/rayssareisdev/">
+    <img src="./GitHub.png" />
+  </a>
 </p>
 
 
@@ -20,7 +22,8 @@
 
 <h3 align="center">
  🔗 <b>Connect with me:</b>
-  <br><br>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/rayssareisdev/">
     <img src="https://images.vexels.com/media/users/3/131245/isolated/preview/9351735cd3a456e88ad876588ab9e503-logo-do-linkedin.png" width="45"/>
   </a>
