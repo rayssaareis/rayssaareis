@@ -29,7 +29,25 @@
   </a>
 </h3>
 
+<br>
 
+<div align="center">
+  
+  ## Current Project
+
+  ### 🏛️ Bureaucracy Translator
+  
+  > AI-powered application that transforms complex bureaucratic documents into clear, accessible explanations.
+  
+  *🛠️ Stack - `Java` · `Spring Boot` · `Gradle` · `REST API` · `OCR` · `LLM`*     
+  
+  | **Input** | **Processing** | **Output** | **Focus** | **Goal** |
+  |:---:|:---:|:---:|:---:|:---:|
+  | Documents | OCR + LLM | Clear explanations | AI · Backend · APIs | Simplify bureaucracy |
+
+</div>
+
+<br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=A64CBF&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
 
