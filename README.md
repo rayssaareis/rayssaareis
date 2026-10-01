@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  ## Current Project
+  ## .·*  Current Project  *·. 
 
   ### 🏛️ Bureaucracy Translator
   
