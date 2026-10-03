@@ -29,6 +29,12 @@
   </a>
 </h3>
 
+
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=A64CBF&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
+
+
 <br>
 
 <div align="center">
@@ -48,8 +54,6 @@
 </div>
 
 <br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=A64CBF&section=footer&reversal=false&textBg=false&animation=fadeIn&fontAlignY=40&strokeWidth=0&descSize=0&descAlignY=59&fontSize=66&fontColor=EDA8FD)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=EDD7F4&center=true&vCenter=true&width=700&lines=Check+out+my+projects%3A;Follow+my+journey%3A;"/>
